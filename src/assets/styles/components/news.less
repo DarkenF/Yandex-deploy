@@ -1,0 +1,123 @@
+.wrapper__content {
+   &-main {
+      min-height: 490px;
+      min-width: 1000px;
+      margin-right: 247px;
+
+      display: flex;
+      //flex-direction: column;
+      //align-items: center;
+      //margin-left: 100px;
+   }
+}
+
+.main {
+   &__news {
+      display: flex;
+      padding-left: 40px;
+   }
+}
+
+.news{
+
+   & ._head-font{
+      .header-font();
+   }
+   & ._base-font{
+      .base-font();
+   }
+   & ._weight-font{
+      .base-font_weight();
+      font-weight: bold;
+   }
+   & ._hover-link{
+      .hover-link()
+   }
+   & ._dark-blue{
+      color: @dark-blue;
+   }
+   & ._light-blue{
+      color: @light-blue;
+   }
+   & ._orange{
+      color: @orange;
+   }
+
+   &__container{
+
+      display: flex;
+      flex-direction: column;
+      margin: 0 auto;
+      padding-right: 36px;
+   }
+   &__container-head {
+      display: flex;
+      margin-bottom: 14px;
+   }
+   &__list{
+      padding: 0;
+      margin: 0;
+      list-style-type: none;
+   }
+   &__stocks{
+      display: flex;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      .stocks__item-currency{
+         margin-right: 8px;
+      }
+      .stocks__item-diff{
+         margin-right: 16px;
+         margin-left: 8px;
+      }
+   }
+   &__adv{
+      min-height: 166px;
+      max-width: 248px;
+      padding-top: 14px;
+      padding-left: 15px;
+      .adv-link__title2{
+         margin-bottom: 6px;
+      }
+   }
+}
+
+.head__item-link{
+   font-size: 19px;
+   margin-right: 10px;
+
+}
+.list__item {
+   max-width: 584px;
+   width: 584px;
+   font-size: 14px;
+   position: relative;
+   &::before{
+      content: '';
+      display: block;
+      position: absolute;
+      left: -22px;
+      width: 16px;
+      height: 16px;
+      background-size: cover;
+   }
+   &_1::before{
+      background-image: url("https://avatars.mds.yandex.net/get-ynews-logo/117671/1027-1530099491421-square/logo-square");
+   }
+   &_2::before{
+      background-image: url("https://avatars.mds.yandex.net/get-ynews-logo/135513/1040-1478692902361-square/logo-square");
+   }
+   &_3::before{
+      background-image: url("https://avatars.mds.yandex.net/get-ynews-logo/26056/1047-1478692902215-square/logo-square");
+   }
+   &_4::before{
+      background-image: url("https://avatars.mds.yandex.net/get-ynews-logo/56838/1946-1562418951052-square/logo-square");
+   }
+   &_5::before{
+      background-image: url("https://avatars.mds.yandex.net/get-ynews-logo/61287/254124874-1478693870397-square/logo-square");
+   }
+
+   &:not(:last-child){
+      margin-bottom: 10px;
+   }
+}

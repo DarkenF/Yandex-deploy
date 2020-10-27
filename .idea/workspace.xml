@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="800a86c9-d235-4bde-ac39-b8aef8f35eca" name="Default Changelist" comment="final project">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Less File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jNAft0Po0z0tit4KkFKUQq6O2L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vipda\Desktop\Задания netcracker\clear Yandex\src\assets\styles\components" />
+      <recent name="C:\Users\vipda\Desktop\Задания netcracker\clear Yandex\src" />
+      <recent name="C:\Users\vipda\Desktop\Задания netcracker\clear Yandex\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="800a86c9-d235-4bde-ac39-b8aef8f35eca" name="Default Changelist" comment="" />
+      <created>1603634281953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603634281953</updated>
+      <workItem from="1603634282998" duration="4628000" />
+      <workItem from="1603641399885" duration="17264000" />
+      <workItem from="1603705513357" duration="28000" />
+      <workItem from="1603733254849" duration="36323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final project" />
+    <option name="LAST_COMMIT_MESSAGE" value="final project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Deployment" timestamp="1603799768374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1603799768374" />
+    <state x="792" y="216" width="629" height="608" key="#Less" timestamp="1603643774243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="216" width="629" height="608" key="#Less/0.0.1920.1040@0.0.1920.1040" timestamp="1603643774243" />
+    <state x="744" y="371" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603741930716">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="371" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603741930716" />
+    <state x="951" y="475" key="FileChooserDialogImpl" timestamp="1603799782947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="951" y="475" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603799782947" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603799967919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603799967919" />
+    <state x="732" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603799831129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="254" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603799831129" />
+    <state x="1118" y="312" width="812" height="684" key="dock-window-1" timestamp="1603735355719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1118" y="312" width="812" height="684" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1603735355719" />
+    <state x="794" y="217" width="939" height="661" key="dock-window-2" timestamp="1603744721579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="217" width="939" height="661" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1603744721579" />
+    <state x="0" y="249" width="939" height="644" key="dock-window-3" timestamp="1603783043482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="249" width="939" height="644" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1603783043482" />
+    <state x="944" y="756" width="939" height="731" key="dock-window-4" timestamp="1603785413966">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="944" y="756" width="939" height="731" key="dock-window-4/0.0.1920.1040@0.0.1920.1040" timestamp="1603785413966" />
+    <state x="90" y="145" width="939" height="641" key="dock-window-5" timestamp="1603798399383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="90" y="145" width="939" height="641" key="dock-window-5/0.0.1920.1040@0.0.1920.1040" timestamp="1603798399383" />
+    <state x="105" y="277" width="778" height="521" key="dock-window-6" timestamp="1603799127374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="105" y="277" width="778" height="521" key="dock-window-6/0.0.1920.1040@0.0.1920.1040" timestamp="1603799127374" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603799871044">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603799871044" />
+    <state x="772" y="354" key="run.anything.popup" timestamp="1603799099546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="354" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603799099546" />
+    <state x="712" y="323" width="672" height="678" key="search.everywhere.popup" timestamp="1603736612950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="323" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603736612950" />
+  </component>
+</project>

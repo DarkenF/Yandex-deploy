@@ -1,0 +1,89 @@
+.wrapper__profile{
+   position: absolute;
+   right: 5px;
+   top: 10px;
+
+   & ._base-font{
+      .base-font();
+   }
+   & ._weight-font{
+      .base-font_weight();
+      font-weight: bold;
+   }
+   & ._light-black{
+      color: @light-black;
+   }
+   & ._hover-link{
+      .hover-link()
+   }
+}
+.profile-card{
+   position: relative;
+   width: 220px;
+   height: 130px;
+   padding: 14px 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   display: flex;
+   border-radius: 3px;
+   box-shadow: 0 0 2px 0 rgba(0,0,0,.1), 0 2px 6px 0 rgba(0,0,0,.1);
+   box-sizing: border-box;
+
+   &__icon{
+      position: absolute;
+      top: 8px;
+      right: 10px;
+      padding: 4px;
+      display: block;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background-image: url(https://avatars.mds.yandex.net/get-yapic/39803/enc-767aac20489960f75ad83d6c36b09e8d56a6109ef9d2b65881eb0af72dfffea7/islands-34);
+   }
+
+   &_covid{
+      height: 153px;
+      padding: 2px;
+   }
+}
+
+.profile-card{
+   &_covid{
+      display: flex;
+      flex-direction: column;
+   }
+   &__main{
+      margin-left: 12px;
+      display: block;
+      width: 194px;
+      height: 86px;
+      background-image: url("http://www.screencapture.ru/uploaded/df/23/a7/Df23a7e6.jpg");
+   }
+   &__header{
+      margin-top: 12px;
+      margin-left: 14px;
+      margin-bottom: 8px;
+   }
+}
+.card__footer{
+   display: flex;
+   justify-content: space-between;
+   &-title_from{
+      margin-left: 14px;
+   }
+   &-title_to{
+      margin-right: 12px;
+   }
+}
+.card__titles{
+   margin-left: 6px;
+   &-name:first-letter{
+      color: red;
+   }
+   &-name{
+      margin-bottom: 20px;
+   }
+   &-mail, &-newmail{
+      margin-bottom: 7px;
+   }
+}

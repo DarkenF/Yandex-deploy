@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Yandex Sans';
+    src: local('Yandex Sans Display Light'), local('Yandex-Sans-Display-Light'),
+        url('YandexSansDisplay-Light.woff2') format('woff2'),
+        url('YandexSansDisplay-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}

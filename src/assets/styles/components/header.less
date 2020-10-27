@@ -1,0 +1,39 @@
+.wrapper__content {
+
+   & ._base-font{
+      .base-font();
+   }
+   & ._weight-font{
+      .base-font_weight();
+   }
+   & ._hover-link{
+      .hover-link()
+   }
+
+   & ._light-black{
+      color: @light-black;
+   }
+
+   &-header {
+      min-width: 1000px;
+      min-height: 56px;
+      padding-left: 30px;
+      padding-right: 18px;
+      margin-right: 240px;
+
+      justify-content: space-between;
+      align-items: center;
+      display: flex;
+   }
+}
+.header{
+   &__location-city{
+      width: 71px;
+      line-height: 41px;
+      padding-right: 16px ;
+      padding-left: 16px;
+   }
+   &__config-setting {
+      line-height: 41px;
+   }
+}
